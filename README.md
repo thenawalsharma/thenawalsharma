@@ -5,7 +5,7 @@ You can find me on:
 
 - 💼 [LinkedIn](https://linkedin.com/in/thenawalsharma)
 - 💻 [GitHub](https://github.com/thenawalsharma)
-- 🌐 [Portfolio]([https://thenawalsharma.github.io/])
+- 🌐 [Portfolio](https://thenawalsharma.github.io)
 
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
