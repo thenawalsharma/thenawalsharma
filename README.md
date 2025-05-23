@@ -28,4 +28,6 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenawalsharma&show_icons=true&theme=default)
 
+![GitHub streak](https://streak-stats.demolab.com?user=thenawalsharma&theme=default)
+
 
