@@ -26,3 +26,6 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+
