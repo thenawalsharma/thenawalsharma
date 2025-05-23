@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawal Kishor Sharma</h1>
-<h3 align="center">A passionate .NET and Azure Developer from India</h3>
+<h3 align="center">.NET and Azure Developer from India</h3>
 
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
