@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nawal</h1>
 <h3 align="center">.NET and Azure Developer from India</h3>
 
+You can find me on:
+
+- 💼 [LinkedIn](https://linkedin.com/in/thenawalsharma)
+- 💻 [GitHub](https://github.com/thenawalsharma)
+- 🌐 [Portfolio]([https://thenawalsharma.github.io/])
+
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
 ⚙️ .NET Core, C#, ASP.NET Web APIs
