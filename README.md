@@ -24,8 +24,8 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 
 🌍 Believer in lifelong learning and growth
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=thenawalsharma&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenawalsharma&show_icons=true&theme=default)
 
 
