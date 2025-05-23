@@ -24,3 +24,5 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 
 🌍 Believer in lifelong learning and growth
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
