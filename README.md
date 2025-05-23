@@ -1,18 +1,26 @@
-## Hi there 👋
+👨‍💻 About Me
+Hi there! 👋 I'm Nawal, a passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
-I am Nawal
+⚙️ .NET Core, C#, ASP.NET Web APIs
 
-<!--
-**thenawalsharma/thenawalsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Microsoft Azure (Functions, App Services, Service Bus, Key Vault, Storage, SQL)
 
-Here are some ideas to get you started:
+🛠️ Microservices Architecture and inter-service communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Unit Testing with xUnit and Moq
+
+🧹 Code quality tools like SonarQube, and performance optimization techniques
+
+📦 DevOps, CI/CD pipelines, and Agile delivery
+
+I enjoy solving complex problems, designing scalable systems, and creating reusable, maintainable code. I'm always up for learning new technologies and collaborating with others to build impactful solutions.
+
+🚀 Fun Facts
+💬 I love mentoring and sharing knowledge
+
+🧠 Always exploring AI and automation tools
+
+🎯 Currently diving deeper into React & frontend frameworks
+
+🌍 Believer in lifelong learning and growth
+
