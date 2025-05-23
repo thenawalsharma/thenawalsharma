@@ -24,7 +24,7 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 
 🌍 Believer in lifelong learning and growth
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nawal-dev&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thenawalsharma&theme=react-dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=thenawalsharma&color=blue)
 
