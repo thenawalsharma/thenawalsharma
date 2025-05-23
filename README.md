@@ -1,5 +1,7 @@
-👨‍💻 About Me
-Hi there! 👋 I'm Nawal, a passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
+<h1 align="center">Hi 👋, I'm Nawal Kishor Sharma</h1>
+<h3 align="center">A passionate .NET and Azure Developer from India</h3>
+
+A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
 ⚙️ .NET Core, C#, ASP.NET Web APIs
 
@@ -23,8 +25,6 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 🎯 Currently diving deeper into React & frontend frameworks
 
 🌍 Believer in lifelong learning and growth
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thenawalsharma&theme=react-dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=thenawalsharma&color=blue)
 
