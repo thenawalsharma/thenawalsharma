@@ -10,7 +10,7 @@ You can find me on:
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,js,ts,html,css,react,redux,bootstrap,mysql,postgres,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,azure,js,ts,html,css,react,redux,bootstrap,mysql,postgres,git,github,linux,vscode" />
 </p>
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
