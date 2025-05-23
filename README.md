@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nawal Kishor Sharma</h1>
+<h1 align="center">Hi 👋, I'm Nawal</h1>
 <h3 align="center">.NET and Azure Developer from India</h3>
 
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
@@ -27,7 +27,6 @@ I enjoy solving complex problems, designing scalable systems, and creating reusa
 🌍 Believer in lifelong learning and growth
 
 ![Profile views](https://komarev.com/ghpvc/?username=thenawalsharma&color=blue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenawalsharma&layout=compact) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenawalsharma&show_icons=true&theme=default) ![GitHub streak](https://streak-stats.demolab.com?user=thenawalsharma&theme=default)
 
