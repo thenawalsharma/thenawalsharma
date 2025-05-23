@@ -7,6 +7,11 @@ You can find me on:
 - 💻 [GitHub](https://github.com/thenawalsharma)
 - 🌐 [Portfolio](https://thenawalsharma.github.io)
 
+### 🔧 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,azure,js,ts,html,css,react,redux,bootstrap,mysql,postgres,git,github,linux,vscode" />
+</p>
 A passionate and experienced Software Engineer specializing in building robust web applications and cloud-native solutions. With over 8 years of experience in software development, I've worked extensively with:
 
 ⚙️ .NET Core, C#, ASP.NET Web APIs
